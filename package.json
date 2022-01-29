@@ -39,7 +39,7 @@
     "ngx-textarea-autosize": "^2.0.3",
     "ngx-twitter-timeline": "^0.1.5",
     "normalize.css": "^8.0.0",
-    "rxjs": "^6.5.2",
+    "rxjs": "^7.5.1",
     "tslib": "^1.9.0",
     "zone.js": "^0.8.29"
   },
